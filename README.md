@@ -68,7 +68,7 @@ docs/
 
 ## Related project
 
-The [Flipkart Product Review Analysis](https://github.com/Samadnoman/flipkart-product-review-analysis) was completed for the same module.
+The [Customer Review Analytics (Flipkart) project](https://github.com/Samadnoman/customer-review-analytics-tableau) was completed for the same module.
 
 ## Licence
 
